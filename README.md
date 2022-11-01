@@ -1,4 +1,4 @@
-## Report Style Git Template DE
+## Manual Style Git Template DE
 
 German version
 
@@ -8,7 +8,7 @@ Date: 2022
 
 ## How to use the Template
 
-The template is intended for use with the Fidus Pipeline styles Report 001 / 002 etc.
+The template is intended for use with the Fidus Pipeline styles Manual001.
 
 Use the GitHub Template repository function.
 
